@@ -121,14 +121,6 @@ def folder(): # < Buat follder
 		open("data/ua.txt","w").write(ua_)
 	except:
 		pass
-# BUAT LOGO
-def banner():
-	print():██████╗ ██╗ █████╗ ███████╗
-██╔══██╗██║██╔══██╗╚══███╔╝
-██████╔╝██║███████║  ███╔╝ 
-██╔══██╗██║██╔══██║ ███╔╝  
-██║  ██║██║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
   • CODE BY BIDRA SHAHZADA •
  • HTTPS://GITHUB.COM/BIGRASHAHZADA •
 ''')
