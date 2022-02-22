@@ -123,7 +123,7 @@ def folder(): # < Buat follder
 		pass
 # BUAT LOGO
 def banner():
-	print() SHAHZADA
+	print():Shahzada
   • CODE BY BIDRA SHAHZADA •
  • HTTPS://GITHUB.COM/BIGRASHAHZADA •
 ''')
